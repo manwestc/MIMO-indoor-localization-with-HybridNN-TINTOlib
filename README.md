@@ -173,6 +173,6 @@ TINTOlib is available under the **[Apache License 2.0](https://github.com/oeg-up
 
 <div>
 <p align = "center">
-    <kbd><img src="img/logo-uned-.jpg" alt="Universidad Nacional de Educación a Distancia" width="231"></kbd> <kbd><img src="img/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="115"></kbd> <kbd><img src="img/logo-upm.png" alt="Universidad Politécnica de Madrid" width="150"></kbd>
+    <kbd><img src="imgs/logo-uned-.jpg" alt="Universidad Nacional de Educación a Distancia" width="231"></kbd> <kbd><img src="imgs/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="115"></kbd> <kbd><img src="imgs/logo-upm.png" alt="Universidad Politécnica de Madrid" width="150"></kbd>
 </p>
 </div>
