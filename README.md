@@ -1,4 +1,4 @@
-# MIMO-indoor-localization-with-HybridNN-TINTOlib
+# MIMO indoor localization-based a Hybrid Neural Network approach transforming Tidy Data into Synthetic Images
 
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/oeg-upm/TINTOlib-Documentation/blob/main/LICENSE)
@@ -8,11 +8,11 @@
 [![Open In Colab-CNN+MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1dv8QYxPsh-HA7TFlmFfQHGE5oMb5VHk4/view?usp=sharing)
 [![Open In Colab-CNN+MLP-reg](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1uQRNgfgi3G2-T4j0VsCnSLLSqzWykPM-/view?usp=sharing)
 
-### This repository contains the source code used to obtain the results in **"MIMO indoor localization-based a Hybrid Neural Network approach transforming Tidy Data into Synthetic Images"**.
+#### This repository contains the source code used to obtain the results in **"MIMO indoor localization-based a Hybrid Neural Network approach transforming Tidy Data into Synthetic Images"**.
 
-### This repository includes the primary documents of the scientific paper. It should be noted that the [TINTOlib](https://tintolib.readthedocs.io/en/latest/) library with the specified details was used for this article.
+#### This repository includes the primary documents of the scientific paper. It should be noted that the [TINTOlib](https://tintolib.readthedocs.io/en/latest/) library with the specified details was used for this article.
 
-------------------------------About TINTOlib---------------------------------------------
+# About TINTOlib
 
 <div>
 <p align = "center">
