@@ -54,7 +54,7 @@ from TINTOlib.barGraph import BarGraph
 from TINTOlib.distanceMatrix import DistanceMatrix
 from TINTOlib.combination import Combination
 
-df = pd.read_csv('ULA_lab_LoS_16.csv')
+df = pd.read_csv('DIS_lab_LoS_32.csv')
 
 #Select the model and the parameters
 problem_type = "regression"
@@ -62,7 +62,7 @@ pixel = 35
 image_model = TINTO(problem= problem_type,pixels=pixel,blur=True)
 
 
-images_folder = "images_16antennas_ULA"
+images_folder = "images_32antennas_DIS"
 results_folder = "/results/"
 
 
@@ -364,7 +364,7 @@ print("TRAIN TIME: ", time.time()-t0)
 
 #print(model_history.history.keys())
 
-modelX.save(images_folder+'/modelX_16.h5')
+modelX.save(images_folder+'/modelX_32.h5')
 
 # RESULTS
 
@@ -589,7 +589,7 @@ model_history=modelY.fit(
 )
 print("TRAIN TIME: ", time.time()-t0)
 
-modelY.save(images_folder+'/modelY_16.h5')
+modelY.save(images_folder+'/modelY_32.h5')
 
 # RESULTS
 
@@ -621,7 +621,7 @@ def true_dist(y_pred, y_true):
         ))
 
 # VALIDATION RESULTS
-folder = images_folder+"/predictions/ULA/16antennas/validation/"
+folder = images_folder+"/predictions/DIS/32antennas/validation/"
 if not os.path.exists(folder):
     os.makedirs(folder)
 
@@ -658,7 +658,7 @@ start_time = time.time()
 predictionY = modelY.predict([X_test_num,X_test_img])
 print("PREDICTION TIME OF Y (TEST): ", time.time()-start_time)
 
-folder = images_folder+"/predictions/ULA/16antennas/test/"
+folder = images_folder+"/predictions/DIS/32antennas/test/"
 if not os.path.exists(folder):
     os.makedirs(folder)
 

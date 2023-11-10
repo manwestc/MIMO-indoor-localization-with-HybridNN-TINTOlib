@@ -54,7 +54,7 @@ from TINTOlib.barGraph import BarGraph
 from TINTOlib.distanceMatrix import DistanceMatrix
 from TINTOlib.combination import Combination
 
-df = pd.read_csv('ULA_lab_LoS_64_100.csv')
+df = pd.read_csv('ULA_lab_LoS_64.csv')
 
 #Select the model and the parameters
 problem_type = "regression"

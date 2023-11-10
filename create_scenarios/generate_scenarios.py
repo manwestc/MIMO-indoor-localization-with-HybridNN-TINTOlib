@@ -84,7 +84,7 @@ def process_antennas(num_antennas, num_subcarriers, folder):
             headers.append(f'Antenna{antena_idx + 1}Subcarrier{portadora_idx + 1}Angle')
     headers.extend(['PositionX', 'PositionY'])
 
-    with open(f'{folder}_{num_antennas}_{num_subcarriers}.csv', 'w', newline='') as csvfile:
+    with open(f'{folder}_{num_antennas}.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(headers)
         writer.writerows(rows)
