@@ -82,7 +82,8 @@ All the methods presented can be called using the [TINTOlib](https://tintolib.re
 
 ## More information
 
-- For more detailed information, refer to the **[TINTOlib ReadTheDocs](https://tintolib.readthedocs.io/en/latest/)**.  
+- For more detailed information, refer to the **[TINTOlib ReadTheDocs](https://tintolib.readthedocs.io/en/latest/)**.
+- TINTOlib Crash Course: **[TINTOlib](https://github.com/oeg-upm/TINTOlib-Crash_Course)**.
 - GitHub repository: **[TINTOlib Documentation](https://github.com/oeg-upm/TINTOlib-Documentation)**.
 - PyPI: **[PyPI](https://pypi.org/project/TINTOlib/)**.
 
