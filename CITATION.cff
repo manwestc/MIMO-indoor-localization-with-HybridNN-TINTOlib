@@ -1,37 +1,33 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-license: Apache-2.0
 title: "MIMO-Based Indoor Localisation with Hybrid Neural Networks: Leveraging Synthetic Images from Tidy Data for Enhanced Deep Learning"
+license: "Apache-2.0"
 authors:
-  - family-names: Castillo-Cara
-    given-names: Manuel
+  - family-names: "Castillo-Cara"
+    given-names: "Manuel"
     orcid: "https://orcid.org/0000-0002-2990-7090"
-  - family-names: Martínez-Gómez
-    given-names: Jesus
-  - family-names: Ballesteros-Jerez
-    given-names: Javier
-  - family-names: García-Varea
-    given-names: Ismael
-  - family-names: García-Castro
-    given-names: Raúl
+  - family-names: "Martínez-Gómez"
+    given-names: "Jesus"
+  - family-names: "Ballesteros-Jerez"
+    given-names: "Javier"
+  - family-names: "García-Varea"
+    given-names: "Ismael"
+  - family-names: "García-Castro"
+    given-names: "Raúl"
     orcid: "https://orcid.org/0000-0002-0421-452X"
-  - family-names: Orozco-Barbosa
-    given-names: Luis
+  - family-names: "Orozco-Barbosa"
+    given-names: "Luis"
     orcid: "https://orcid.org/0000-0003-1510-1608"
-type: article
-doi: 10.1109/JSTSP.2025.3555067
-url: https://doi.org/10.1109/JSTSP.2025.3555067
+type: "article"
+doi: "10.1109/JSTSP.2025.3555067"
+url: "https://doi.org/10.1109/JSTSP.2025.3555067"
 journal: "IEEE Journal of Selected Topics in Signal Processing"
 year: 2025
-pages: 1-13
+pages: "1-13"
 keywords:
-  - Massive MIMO
-  - Deep Learning
-  - Hybrid Neural Network
-  - Synthetic Images
-  - Positioning
-  - Indoor Localisation
-identifiers:
-  - description: "MIMO indoor localization-based a Hybrid Neural Network approach transforming Tidy Data into Synthetic Images"
-    type: doi
-    value: 10.5281/zenodo.14289235
+  - "Massive MIMO"
+  - "Deep Learning"
+  - "Hybrid Neural Network"
+  - "Synthetic Images"
+  - "Positioning"
+  - "Indoor Localisation"
