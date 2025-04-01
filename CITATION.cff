@@ -1,32 +1,73 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this work, please cite it as follows:"
-title: "MIMO-Based Indoor Localisation with Hybrid Neural Networks: Leveraging Synthetic Images from Tidy Data for Enhanced Deep Learning"
-type: article
+title: >-
+  MIMO-Based Indoor Localisation with Hybrid Neural
+  Networks: Leveraging Synthetic Images from Tidy Data for
+  Enhanced Deep Learning
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-  - family-names: "Castillo-Cara"
-    given-names: "Manuel"
-    orcid: "https://orcid.org/0000-0002-2990-7090"
-    affiliation: "Universidad Nacional de Educación a Distancia"
-  - family-names: "Martínez-Gómez"
-    given-names: "Jesus"
-    orcid: "https://orcid.org/0000-0002-4000-1951"
-    affiliation: "Universidad de Castilla-La Mancha"
-  - family-names: "Ballesteros-Jerez"
-    given-names: "Javier"
-    orcid: "https://orcid.org/0009-0009-1084-1309"
-    affiliation: "Universidad de Castilla-La Mancha"
-  - family-names: "García-Varea"
-    given-names: "Ismael"
-    orcid: "https://orcid.org/0000-0003-3451-7852"
-    affiliation: "Universidad de Castilla-La Mancha"
-  - family-names: "García-Castro"
-    given-names: "Raúl"
-    orcid: "https://orcid.org/0000-0002-0421-452X"
-    affiliation: "Universidad Politécnica de Madrid"
-  - family-names: "Orozco-Barbosa"
-    given-names: "Luis"
-    orcid: "https://orcid.org/0000-0003-1510-1608"
-    affiliation: "Universidad de Castilla-La Mancha"
-doi: "10.1109/JSTSP.2025.3555067"
-date-released: 2025-01-01
-license: "Apache-2.0"
+  - family-names: Castillo-Cara
+    given-names: Manuel
+    affiliation: Universidad Nacional de Educación a Distancia
+    orcid: 'https://orcid.org/0000-0002-2990-7090'
+  - family-names: Martínez-Gómez
+    given-names: Jesús
+    affiliation: Universidad de Castilla-La Mancha
+    orcid: 'https://orcid.org/0000-0002-4000-1951'
+  - family-names: Ballesteros-Jerez
+    given-names: Javier
+    affiliation: Universidad de Castilla-La Mancha
+    orcid: 'https://orcid.org/0009-0009-1084-1309'
+  - family-names: García-Varea
+    given-names: Ismael
+    affiliation: Universidad de Castilla-La Mancha
+    orcid: 'https://orcid.org/0000-0003-3451-7852'
+  - family-names: García-Castro
+    given-names: Raúl
+    affiliation: Universidad Politécnica de Madrid
+    orcid: 'https://orcid.org/0000-0002-0421-452X'
+  - family-names: Orozco-Barbosa
+    given-names: Luis
+    affiliation: Universidad de Castilla-La Mancha
+    orcid: 'https://orcid.org/0000-0003-1510-1608'
+identifiers:
+  - type: doi
+    value: 10.1109/JSTSP.2025.3555067
+    description: Journal
+repository-code: 'https://doi.org/10.5281/zenodo.14289235'
+abstract: >-
+  Indoor localization determines an object's position within
+  enclosed spaces, with applications in navigation, asset
+  tracking, robotics, and context-aware computing.
+  Technologies range from WiFi and Bluetooth to advanced
+  systems like Massive Multiple Input-Multiple Output
+  (MIMO). MIMO, initially designed to enhance wireless
+  communication, is now key in indoor positioning due to its
+  spatial diversity and multipath propagation. This study
+  integrates MIMO-based indoor localization with Hybrid
+  Neural Networks (HyNN), converting structured datasets
+  into synthetic images using TINTO. This research marks the
+  first application of HyNNs using synthetic images for
+  MIMO-based indoor localization. Our key contributions
+  include: (i) adapting TINTO for regression problems; (ii)
+  using synthetic images as input data for our model; (iii)
+  designing a novel HyNN with a Convolutional Neural Network
+  branch for synthetic images and an MultiLayer Percetron
+  branch for tidy data; and (iv) demonstrating improved
+  results and metrics compared to prior literature. These
+  advancements highlight the potential of HyNNs in enhancing
+  the accuracy and efficiency of indoor localization
+  systems.
+keywords:
+  - Massive MIMO
+  - Deep Learning
+  - Hybrid Neural Networks
+  - Synthetic Images
+  - Indoor Localisation
+license: Apache-2.0
+
