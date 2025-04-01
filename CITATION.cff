@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: "If you use this work, please cite it as follows:"
 title: "MIMO-Based Indoor Localisation with Hybrid Neural Networks: Leveraging Synthetic Images from Tidy Data for Enhanced Deep Learning"
 type: article
-doi: "10.1109/JSTSP.2025.3555067"
+doi: 10.1109/JSTSP.2025.3555067
 date-released: 2025-01-01
-license: "Apache-2.0"
+license: Apache-2.0
 authors:
   - family-names: "Castillo-Cara"
     given-names: "Manuel"
