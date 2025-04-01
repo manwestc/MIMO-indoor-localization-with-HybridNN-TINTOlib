@@ -9,12 +9,15 @@ authors:
   - family-names: "Martínez-Gómez"
     given-names: "Jesus"
     affiliation: "Universidad de Castilla-La Mancha"
+    orcid: "https://orcid.org/0000-0002-4000-1951"
   - family-names: "Ballesteros-Jerez"
     given-names: "Javier"
     affiliation: "Universidad de Castilla-La Mancha"
+    orcid: "https://orcid.org/0009-0009-1084-1309"
   - family-names: "García-Varea"
     given-names: "Ismael"
     affiliation: "Universidad de Castilla-La Mancha"
+    orcid: "https://orcid.org/0000-0003-3451-7852"
   - family-names: "García-Castro"
     given-names: "Raúl"
     affiliation: "Universidad Politécnica de Madrid"
@@ -25,5 +28,5 @@ authors:
     orcid: "https://orcid.org/0000-0003-1510-1608"
 type: "article"
 journal: "IEEE Journal of Selected Topics in Signal Processing"
-doi: "10.1109/JSTSP.2025.3555067"
+doi: 10.1109/JSTSP.2025.3555067
 year: 2025
