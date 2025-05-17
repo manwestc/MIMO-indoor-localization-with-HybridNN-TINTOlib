@@ -51,7 +51,7 @@ If you use this code or found it helpful for your work, please cite the followin
 This hands-on tutorial includes **bilingual videos (English/Spanish)** and **practical notebooks** to help you learn how to use **TINTOlib** with deep learning models like CNNs, ViTs, and hybrid architectures.
 
 <p align="center">
-  <a href="./5_TINTOlib%20Videotutorial%20course/README.md" target="_blank">
+  <a href="https://github.com/oeg-upm/TINTOlib-Crash_Course" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-VideoTutorial%20Course-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="Access the Course on GitHub"/>
   </a>
 </p>
