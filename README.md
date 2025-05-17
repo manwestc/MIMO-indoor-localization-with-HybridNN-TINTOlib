@@ -7,6 +7,7 @@
 [![Open In Colab-CNN](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/10iKmFCC_od-P_tqWzA_UQE2ieUhCV-uy/view?usp=sharing)
 [![Open In Colab-CNN+MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1dv8QYxPsh-HA7TFlmFfQHGE5oMb5VHk4/view?usp=sharing)
 [![Open In Colab-CNN+MLP-reg](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1uQRNgfgi3G2-T4j0VsCnSLLSqzWykPM-/view?usp=sharing)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/manwestc/MIMO-indoor-localization-with-HybridNN-TINTOlib)
 
 #### This repository contains the source code used to obtain the results in **"MIMO indoor localization-based a Hybrid Neural Network approach transforming Tidy Data into Synthetic Images"**.
 
@@ -31,6 +32,17 @@ If you use this code or found it helpful for your work, please cite the followin
   keywords={Location awareness;Accuracy;Neural networks;Measurement;Deep learning;Complexity theory;Antennas;Antenna measurements;Base stations;Signal processing algorithms;Massive MIMO;Deep Learning;Hybrid Neural Network;Synthetic Images;Positioning;Indoor Localisation},
   doi={10.1109/JSTSP.2025.3555067}}
 ```
+---
+
+## 🔎 Explore this GitHub with DeepWiki
+
+This repository has a dedicated space on **[DeepWiki]([https://deepwiki.com/oeg-upm/TINTOlib](https://deepwiki.com/manwestc/MIMO-indoor-localization-with-HybridNN-TINTOlib))**, where you can explore semantic documentation, relevant links, bibliography, and answers to frequently asked questions about its use and application.
+
+<p align="center">
+  <a href="https://deepwiki.com/manwestc/MIMO-indoor-localization-with-HybridNN-TINTOlib" target="_blank">
+    <img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"/>
+  </a>
+</p>
 
 ---
 
