@@ -47,12 +47,6 @@ This repository has a dedicated space on **[DeepWiki]([https://deepwiki.com/oeg-
 
 ---
 
-## Zenodo
-
-<a href="https://doi.org/10.5281/zenodo.14289235"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14289235.svg" alt="DOI"></a>
-
----
-
 ## About **[TINTOlib](https://tintolib.readthedocs.io/en/latest/)**
 
 <div>
