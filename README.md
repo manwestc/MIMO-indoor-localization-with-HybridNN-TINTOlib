@@ -8,6 +8,7 @@
 [![Open In Colab-CNN+MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1dv8QYxPsh-HA7TFlmFfQHGE5oMb5VHk4/view?usp=sharing)
 [![Open In Colab-CNN+MLP-reg](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1uQRNgfgi3G2-T4j0VsCnSLLSqzWykPM-/view?usp=sharing)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/manwestc/MIMO-indoor-localization-with-HybridNN-TINTOlib)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14289235.svg)](https://doi.org/10.5281/zenodo.14289235)
 
 #### This repository contains the source code used to obtain the results in **"MIMO indoor localization-based a Hybrid Neural Network approach transforming Tidy Data into Synthetic Images"**.
 
@@ -43,6 +44,12 @@ This repository has a dedicated space on **[DeepWiki]([https://deepwiki.com/oeg-
     <img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"/>
   </a>
 </p>
+
+---
+
+## Zenodo
+
+<a href="https://doi.org/10.5281/zenodo.14289235"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14289235.svg" alt="DOI"></a>
 
 ---
 
